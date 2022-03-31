@@ -28,7 +28,7 @@ SECRET_KEY = 'ql&qi^8lb2=176&((yt-9zvs784ka^toyibq*9)gd1i40(es_+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["my-hap.herokuapp.com/" "127.0.0.1:8"]
+ALLOWED_HOSTS = [".herokuapp.com", "127.0.0.1:8"]
 
 
 # Application definition
